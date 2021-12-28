@@ -1,9 +1,13 @@
 header {
-  background-color: brown;
+  background-color:#E7E7E7;
 }
 body {
-    background-color: #cf8c8c;
+    background-color: #ffffff;
   }
 footer {
-  background-color: aquamarine;
+  background-color: #422503;
+  color: #ffffff;
+}
+a {
+  color: aliceblue;
 }
